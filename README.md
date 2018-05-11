@@ -1,0 +1,2 @@
+# HitMC
+GitHub Pages
